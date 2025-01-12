@@ -165,11 +165,12 @@ margin-top: -60px;
         padding-top: 20px;
         }
    .btn-vision1{
-    padding: 8px 30px;
+    padding: 10px 30px;
     background-color: rgb(6, 250, 6);
     color: black;
     font-weight: bold;
     border-radius: 5px;
+    font-size: 15px;
    }  
    .btn-vision1:hover{
     background-color: aqua;
@@ -177,11 +178,12 @@ margin-top: -60px;
     transition: all ease-in 0.3s;
    }
    .btn-vision2{
-    padding: 8px 30px;
+    padding: 10px 30px;
     background-color: rgb(245, 243, 127);
     color: black;
     font-weight: bold;
     border-radius: 5px;
+    font-size: 15px;
    }  
    .btn-vision2:hover{
     background-color: orange;
@@ -189,11 +191,12 @@ margin-top: -60px;
     transition: all ease-in 0.3s;
    }
    .btn-vision3{
-    padding: 8px 30px;
+    padding: 10px 30px;
     background-color: rgb(252, 146, 146);
     color: black;
     font-weight: bold;
     border-radius: 5px;
+    font-size:;
    }  
    .btn-vision3:hover{
     background-color: rgb(90, 234, 253);
@@ -457,4 +460,9 @@ background-color: #C6E4D6;
   .end-h1{
     font-size: 40px;
     font-weight: bold;
+  }
+  .last-content{
+    display: flex;
+    gap: 24px;
+    justify-content: center;
   }
