@@ -63,13 +63,20 @@ main section {
   margin-top: -20px;
  }
  .btn-primary{
-    background-color: #006A50;
-    width: 230px;
-    height: 40px;
-    margin-top: 15px;
+    background-color: #02634b;
+    /*width: 230px;
+    height: 40px;*/
+    margin-top: 10px;
+    font-weight: bold;
     color: white;
     border-radius: 6px;
+    padding: 16px 23px;
+    font-size: 18px;
  }
+.btn-primary:hover{
+    background-color: blue;
+    transition: all ease-in 0.3s;
+}
  .section-profile{
 border-radius: 5px;
 margin-top: -10px;
